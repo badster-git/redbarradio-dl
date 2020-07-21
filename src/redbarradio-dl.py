@@ -113,7 +113,7 @@ def downloadVideo(link):
             else:
                 print('Video has already been downloaded.')
     except (youtube_dl.utils.ExtractorError, youtube_dl.utils.DownloadError) as e:
-            print(f"Error when interacting with youtube, skipping test: {e}")
+            print(f"Error when interacting with youtube, skipping: {e}")
 
 def main():
     episodes = []
