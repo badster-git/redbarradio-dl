@@ -13,11 +13,11 @@ DOWNLOAD_PATH = "your path here"
 ARCHIVE_PATH = "your path here"
 ```
 
-### To download multiple videos use '-'
+### To download range of videos use '-'
 ![Image of dash ](preview/dash.png)
 
 
-### To download specific videos use comma ','
+### To download multiple specific videos use comma ','
 ![Image of comma ](preview/comma.png)
 
 ### Preview
