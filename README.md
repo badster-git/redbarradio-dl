@@ -2,26 +2,25 @@
 
 ## Usage
 
-Run script with:
--
+### Run script with:
   ```
   python redbarradio-dl.py  
   ```
 
-## Change video and archive file location in settings.py
+### Change video and archive file location in settings.py
 ``` python
 DOWNLOAD_PATH = "your path here"
 ARCHIVE_PATH = "your path here"
 ```
 
-## To download multiple videos use '-'
+### To download multiple videos use '-'
 ![Image of dash ](preview/dash.png)
 
 
-## To download specific videos use comma ','
+### To download specific videos use comma ','
 ![Image of comma ](preview/comma.png)
 
-## Preview
+### Preview
 ![Image of main ](preview/main.png)
 
 ## Install requirements with:
