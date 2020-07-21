@@ -23,3 +23,8 @@ ARCHIVE_PATH = "your path here"
 
 ## Preview
 ![Image of main ](preview/main.png)
+
+## Install requirements with:
+```
+pip install -r requirements.txt
+```
